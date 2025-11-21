@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978589766146",
+    "project_id": "susthiram-92ca8",
+    "storage_bucket": "susthiram-92ca8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978589766146:android:39b5704075539f69bacd1b",
+        "android_client_info": {
+          "package_name": "com.example.susthiram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNDXC12vJcgcVJGfSnrLpXvU8QDWWTtm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
